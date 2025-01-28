@@ -1,6 +1,6 @@
 # DeepSeek-R1: Charting New Frontiers in Pure RL-Driven Language Models
 ---
-
+![](assets/2025-01-29-00-44-39.png)
 ## 1. A Leap in Reasoning via Pure Reinforcement Learning (RL)
 
 ### 1.1 No Supervised Fine-Tuning (SFT) Required
@@ -479,6 +479,13 @@ if __name__ == "__main__":
 6. **Launching the App**: Finally, the script launches the Gradio interface locally or on a web-hosted platform when executed, making it easy for users to test and interact with the model.
 
 ---
+
+You can have something like this
+![](assets/2025-01-29-00-46-52.png)
+
+
+You can execute the previos code on google colab with the A100 GPU [here](https://colab.research.google.com/github/ruslanmv/DeepSeek-R1-RL-Driven-Language-Models/blob/master/app.ipynb)
+
 
 ### Key Takeaways
 
