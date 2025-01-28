@@ -1,0 +1,5 @@
+huggingface_hub
+accelerate
+transformers
+SentencePiece
+bitsandbytes
