@@ -43,7 +43,7 @@ An astounding outcome of training purely via RL was the **spontaneous appearance
 - **Self-Verification:** The model would revisit previously generated tokens to verify or correct them.
 - **Reflection:** It would generate **chain-of-thought** (CoT) style explanations internally, refining its own logic step by step.
 
-> **Why It’s Interesting**  
+>  
 > It’s the **first open research** confirming that large-scale RL alone can foster deep reasoning. This reduces the need for expensive supervised data collection and highlights new ways to train LLMs **with minimal human intervention**.
 
 ---
@@ -77,7 +77,7 @@ After the **kickstart**, the model undergoes further RL fine-tuning with an **up
 - **Coding** (code snippets, debugging assistance)
 - **Multistep Reasoning** (long chain-of-thought dialogues)
 
-> **Why It’s Interesting**  
+>  
 > Just a **tiny injection** of supervised data delivers a **big leap** in stability—an insight that may influence future **hybrid** training pipelines.
 
 ---
@@ -95,7 +95,7 @@ Significantly, the entire **DeepSeek-R1** family (including **DeepSeek-R1-Zero**
 - Training scripts
 - Detailed documentation
 
-> **Why It’s Interesting**  
+>  
 > **Full openness** gives developers and researchers **unrestricted** ability to experiment, fine-tune, or even fork the project. It’s a major departure from closed, proprietary ecosystems.
 
 ---
@@ -137,7 +137,7 @@ During alignment, **human evaluators** (or proxy reward models trained from huma
 - **Accurate** in logic and fact,
 - **Respectful** of content guidelines.
 
-> **Why It’s Interesting**  
+>  
 > The synergy of **RL, supervised alignment**, and **iterative feedback** is laid out **transparently**, offering a replicable blueprint for other large-scale projects.
 
 ---
@@ -161,7 +161,7 @@ where \(D_{KL}(\cdot)\) is the Kullback–Leibler divergence between the teacher
 
 Despite having fewer parameters, some distilled variants (e.g., **DeepSeek-R1-Distill-Qwen-32B**) **surpass** significantly larger models like **OpenAI-o1-mini** on various benchmarks. This indicates that **intelligent compression** can retain—and sometimes refine—crucial reasoning abilities.
 
-> **Why It’s Interesting**  
+>  
 > Distilled models run faster, consume fewer resources, and can even outperform bigger models that haven’t been fine-tuned or distilled as effectively.
 
 ---
@@ -179,7 +179,7 @@ These models:
 - Generate and **debug** code,
 - Handle multi-turn queries requiring **chain-of-thought** reasoning.
 
-> **Why It’s Interesting**  
+>  
 > It challenges the assumption that **only** ultra-large models (200B–800B parameters) can top the leaderboards. **Smart distillation** is emerging as a potent alternative.
 
 ---
@@ -200,7 +200,7 @@ They invite the community—both **academic** labs and **industry** teams—to:
 - Conduct **benchmark evaluations** on new datasets,
 - Propose new **alignment** strategies to address ethical concerns.
 
-> **Why It’s Interesting**  
+>  
 > This open, collaborative attitude fosters **grassroots innovation**. Barriers to entry are lowered, accelerating the pace of AI research for everyone.
 
 ---
@@ -221,7 +221,7 @@ Long context windows enable advanced use-cases like:
 - **Policy compliance** checks with large reference material,
 - **Literature reviews** in academic settings.
 
-> **Why It’s Interesting**  
+>  
 > Instead of stitching together multiple queries or chunking content, users can feed everything **at once**, unlocking more **cohesive** and **powerful** interactions.
 
 ---
@@ -241,7 +241,7 @@ Technically, this reflection can be viewed as an **internal attention mechanism*
 
 For non-technical readers, seeing how the model **“thinks”** step by step can be eye-opening. For instance, a multi-turn solution to a math word problem might show the model incrementally computing partial results, checking them, and **correcting** minor mistakes—just like a human student.
 
-> **Why It’s Interesting**  
+>  
 > This added transparency not only improves performance but also inspires trust (and sometimes a little astonishment!) as we watch an AI system **deliberate** before answering.
 
 ---
@@ -268,7 +268,7 @@ With great power comes great responsibility. As LLMs get more advanced, we must 
 - **Misuse prevention** in malicious contexts,
 - **User education** on model limitations.
 
-> **Why It’s Interesting**  
+>  
 > The path ahead for DeepSeek is wide open, merging **technical breakthroughs** with the **philosophical** and **social** dimensions of AI.
 
 ---
