@@ -1,6 +1,11 @@
 # DeepSeek-R1: Charting New Frontiers in Pure RL-Driven Language Models
 ---
 ![](assets/2025-01-29-00-44-39.png)
+
+## Introduction
+
+In the rapidly evolving landscape of artificial intelligence, DeepSeek-R1 stands out as a groundbreaking advancement in the realm of large language models (LLMs). By challenging conventional approaches that rely heavily on supervised fine-tuning (SFT), DeepSeek-R1 pioneers a novel methodology driven primarily by Reinforcement Learning (RL). This blog delves into the intricacies of DeepSeek-R1, exploring how it achieves advanced reasoning capabilities without the need for extensive human-annotated data. From its innovative training pipeline to its open-source commitment and record-setting benchmarks, DeepSeek-R1 represents a significant leap forward in AI research. Join us as we unpack the technical breakthroughs, practical applications, and future potential of this transformative model, and discover how it is reshaping the boundaries of what AI can achieve.
+
 ## 1. A Leap in Reasoning via Pure Reinforcement Learning (RL)
 
 ### 1.1 No Supervised Fine-Tuning (SFT) Required
