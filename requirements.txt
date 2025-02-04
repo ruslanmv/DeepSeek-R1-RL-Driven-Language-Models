@@ -4,3 +4,4 @@ transformers
 SentencePiece
 bitsandbytes
 gradio
+spaces
