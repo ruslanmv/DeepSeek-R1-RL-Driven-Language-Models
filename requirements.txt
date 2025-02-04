@@ -3,3 +3,4 @@ accelerate
 transformers
 SentencePiece
 bitsandbytes
+gradio
